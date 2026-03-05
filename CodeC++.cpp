@@ -25,7 +25,7 @@ int main()
 	}
 	else
 	{
-		cout << n << " khong la so nguyen to." << endl;
+		cout << n << " khong la so nguyen tocc." << endl;
 	}
 }
 
