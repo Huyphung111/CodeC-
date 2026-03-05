@@ -15,7 +15,7 @@ bool songuyento(int n)
 
 int main()
 {
-	cout << "Hello world!" << endl;
+	cout << "Hello ITADORI YUJI??" << endl;
 }
 
 
