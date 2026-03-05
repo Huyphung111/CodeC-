@@ -16,6 +16,17 @@ bool songuyento(int n)
 int main()
 {
 	cout << "Hello world!" << endl;
+	cout << "Nhap vao mot so nguyen: ";
+	int n;
+	cin >> n;
+	if (songuyento(n))
+	{
+		cout << n << " la so nguyen to." << endl;
+	}
+	else
+	{
+		cout << n << " khong la so nguyen to." << endl;
+	}
 }
 
 
